@@ -9,3 +9,4 @@ DocBot is a chatbot that helps you to fill Word documents
 ```bash
 dotnet run --project DocBot
 ```
+4. Use https://docs.google.com/document/d/1y-1zVy2JHRzZJ6vLisLyAtXyLv1VUUe0_zADP9QX9x4/edit?usp=sharing as a template for your Word document
